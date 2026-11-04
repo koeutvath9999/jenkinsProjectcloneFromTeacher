@@ -10,7 +10,7 @@ const HomePage = () => {
                 <div className="container pt-4   order-2 order-md-1">
                     <h1 className="display-2 header-title">
                         {" "}
-                      Welcome to EarthDX (new update 2026 This update 2027)
+                      Welcome to EarthDX (new update 2026 This is update code 11)
                     </h1>
                     <p> We are a team of passionate people whose goal is to improve everyone's life through disruptive products. We build great products to solve your business problems.</p>
                     <div className="d-flex pt-5">
